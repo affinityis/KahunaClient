@@ -19,9 +19,9 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'yard'
   gem.add_development_dependency 'bluecloth'
 
-  gem.add_dependency 'faraday', '~> 0.9.1'
-  gem.add_dependency 'faraday_middleware', '~> 0.9.1'
-  gem.add_dependency 'multi_json', '~> 1.10.0'
+  gem.add_dependency 'faraday', '~> 0.9.2'
+  gem.add_dependency 'faraday_middleware', '~> 0.9.2'
+  gem.add_dependency 'multi_json', '~> 1.11.0'
   gem.add_dependency 'hashie'
   gem.authors       = ["Edgar Gonzalez"]
   gem.email         = ["edgargonzalez@gmail.com"]
